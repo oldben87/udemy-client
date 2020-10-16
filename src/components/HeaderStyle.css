@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+}
+
+.header a {
+  margin: 0 10px;
+  border: 2px black solid;
+  padding: 3px;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
